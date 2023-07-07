@@ -1,0 +1,6 @@
+input, .btn, select, textarea{
+    border-radius: 30px !important;
+}
+.card.selection{
+    cursor: pointer;
+}
